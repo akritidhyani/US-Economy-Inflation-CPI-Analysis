@@ -1,0 +1,8 @@
+Data Series,Back,July,Aug,Sept,Oct,Nov,Dec
+,Data,2023,2023,2023,2023,2023,2023
+Unemployment Rate(1),Go to web page with historical data for series LNS14000000,3.5,3.8,3.8,3.8,3.7,3.7
+Change in Payroll Employment(2),Go to web page with historical data for series CES0000000001,236,165,262,105,(P)173,(P)216
+Average Hourly Earnings(3),Go to web page with historical data for series CES0500000003,33.73,33.82,33.91,34,(P)34.12,(P)34.27
+Consumer Price Index(4),Go to web page with historical data for series CUSR0000SA0,0.2,0.6,0.4,0,0.1,0.3
+Producer Price Index(5),Go to web page with historical data for series WPSFD4,0.5,0.7,(P)0.4,(P)-0.4,(P)-0.1,(P)-0.1
+U.S. Import Price Index(6),Go to web page with historical data for series EIUIR,0,0.6,(R)0.5,(R)-0.6,(R)-0.4,
