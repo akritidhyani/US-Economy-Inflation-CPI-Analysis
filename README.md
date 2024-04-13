@@ -1,4 +1,4 @@
-# U.S. Economy Analysis Report
+# U.S. Economy Analysis Project
 
 ## Overview
 The U.S. economy, a powerhouse on the global stage, has experienced fluctuations, particularly evident in December. This period saw a significant decline in the economy alongside an unexpected surge in inflation rates and the Consumer Price Index (CPI). Factors such as the COVID-19 pandemic and the Russia-Ukraine war have contributed to this turbulence, impacting various sectors including food, housing, medical care, and energy.
@@ -12,8 +12,8 @@ The sudden increase in consumer prices in December, as evidenced by a 3.4% surge
 ## Impact of External Factors
 The U.S. economy has been profoundly affected by external factors such as the Russia-Ukraine war and the COVID-19 pandemic. These events led to a sharp increase in the annual inflation rate, reaching 9.1%, with consumer prices soaring to nearly 7%, the highest in four decades. However, the first quarter of 2023 saw a decrease in the inflation rate to 4.93%, the lowest recorded. By December 2023, CPI increased by 0.3%, accompanied by a sudden rise in inflation rates, particularly affecting shelter and medical expenses.
 
-## Objective of the Report
-This report provides a comprehensive analysis of inflation rates and CPI trends in the United States, highlighting the impact of significant events on the economy's trajectory. Through meticulous analysis, the aim is to understand the background and current scenarios of these events, offering insights into the country's economic landscape.
+## Objective of the Project
+This project provides a comprehensive analysis of inflation rates and CPI trends in the United States, highlighting the impact of significant events on the economy's trajectory. Through meticulous analysis, the aim is to understand the background and current scenarios of these events, offering insights into the country's economic landscape.
 
 ---
 
